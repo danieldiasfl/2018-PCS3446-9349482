@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1530119267 source:c:\users\daniel\desktop\jj\jjv4\jj\main.cpp
+	"montador.h"
+	"maquinaVirtual.h"
+	<stdio.h>
+
+1530132554 c:\users\daniel\desktop\jj\jjv4\jj\include\montador.h
+	<direct.h>
+	<windows.h>
+	<string>
+	<bits/stdc++.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	<algorithm>
+	<iostream>
+	<vector>
+	<stdio.h>
+
+1530135741 source:c:\users\daniel\desktop\jj\jjv4\jj\src\montador.cpp
+	"montador.h"
+
+1530136703 source:c:\users\daniel\desktop\jj\jjv4\jj\src\maquinavirtual.cpp
+	"maquinaVirtual.h"
+
+1530132554 c:\users\daniel\desktop\jj\jjv4\jj\include\maquinavirtual.h
+	<direct.h>
+	<windows.h>
+	<string>
+	<bits/stdc++.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	<algorithm>
+	<iostream>
+	<vector>
+
+1530123150 source:c:\users\daniel\desktop\jj2\src\montador.cpp
+	"montador.h"
+
+1530123152 c:\users\daniel\desktop\jj2\include\montador.h
+	<direct.h>
+	<windows.h>
+	<string>
+	<bits/stdc++.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	<algorithm>
+	<iostream>
+	<vector>
+	<stdio.h>
+
+1543722028 source:c:\users\daniel\desktop\jj2\main.cpp
+	"montador.h"
+	"maquinaVirtual.h"
+	<stdio.h>
+	<list>
+	<vector>
+
+1543713802 c:\users\daniel\desktop\jj2\include\maquinavirtual.h
+	<direct.h>
+	<windows.h>
+	<string>
+	<bits/stdc++.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	<algorithm>
+	<iostream>
+	<vector>
+
+1543722963 source:c:\users\daniel\desktop\jj2\src\maquinavirtual.cpp
+	"maquinaVirtual.h"
+
